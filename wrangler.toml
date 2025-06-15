@@ -1,0 +1,7 @@
+name = "linky-qr-nuxt-server"
+main = "./server/index.ts"
+compatibility_date = "2025-06-14"
+
+[[kv_namespaces]]
+binding = "REDIRECTS"
+id = "1921262f5dec44049c93976ec1762da1" 
